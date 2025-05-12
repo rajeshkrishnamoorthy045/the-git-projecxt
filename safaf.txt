@@ -2,4 +2,8 @@ I Ama inevitable
 njnjhdjjwmcmkdmk
 kmdvlkjlsjklvjljskl;advl;kmmkad
 hfjewrhuwikfjjfio
+<<<<<<< HEAD
 this ois a <i class="fa fa-exchange" aria-hidden="true"></i>
+=======
+this is qa example for merge conflit
+>>>>>>> cffa2fd89b8bf9aa756c3ff0160d53554575d535
