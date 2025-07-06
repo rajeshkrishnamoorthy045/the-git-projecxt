@@ -1,0 +1,11 @@
+Self-Introduction (Fresh Graduate – Tech Role)
+Hi, I'm Rajesh K, a passionate and driven BCA graduate from Madras Christian College, Chennai.
+I recently completed my Bachelor's in Computer Applications (2022–2025) and have been actively building my skills in full-stack web development, Python programming, and database management.
+
+During my academic journey, I worked on multiple projects including a Furniture E-Commerce Website using HTML, CSS, PHP, and MySQL, and a Mood-Based Music System built with Python and OpenCV. I am currently doing an internship at D Archimedix, where I’m gaining real-world experience building full-stack applications.
+
+I’m well-versed in tools like Git, GitHub, and SQLite, and comfortable working with both frontend and backend technologies. I’ve also completed certification courses in Java, SQL, Python for Data Science, and Website Development, which strengthened my technical foundation.
+
+In addition to my technical skills, I have strong communication, problem-solving, and content writing abilities. I’m fluent in English, Tamil, and Telugu, and I currently work part-time at Landmark Group (Max Fashions) which has taught me time management and professionalism.
+
+I’m now looking to start my career in a tech company where I can contribute to exciting projects, grow as a developer, and bring value to the team with my dedication and eagerness to learn.
